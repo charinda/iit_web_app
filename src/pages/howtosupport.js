@@ -85,11 +85,10 @@ export default function HowToSupport() {
                 <br></br>
                 <br></br>
                 <div className="how-to-support-main-aspects">
-                  Other Requisities
+                  Help to propagate dhamma
                 </div>
                 <div className="how-to-support-main-aspects-text">
-                  Administration and other expenses required by the Institiute
-                  can be fullfilled.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. 
                 </div>
               </div>
             </div>

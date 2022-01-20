@@ -2,25 +2,25 @@
     {
         "title":"Courses and Trainings",
         "image":"coursesAndTrainningIcon.svg",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. Pellentesque bibendum lorem ac mauris porta sodales. Quisque eu tortor ullamcorper, posuere velit nec, tincidunt nisl. Etiam ultrices placerat mi nec aliquet. Curabitur consequat sem at molestie efficitur.",
-        "link":"www.google.com",
+        "description":"Comprehensive studies of Buddhist scriptures pave the foundation for the prolongation of the Buddha Sāsana (dispensation).",
+        "link":"/education",
         "color":"#FFD426",
         "titleColor":"#132072",
         "arrowColor":""
     },
     {
-        "title":"Meditation Programme",
+        "title":"Meditation",
         "image":"meditationProgIcon.svg",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. Pellentesque bibendum lorem ac mauris porta sodales. Quisque eu tortor ullamcorper, posuere velit nec, tincidunt nisl. Etiam ultrices placerat mi nec aliquet. Curabitur consequat sem at molestie efficitur.",
-        "link":"",
+        "description":"Meditation is a part of daily life of anyone who is seeking spiritual fulfilment. Are you looking for guidance for your mediation? IIT is willing to render a helping hand in your noble quest.",
+        "link":"/meditation",
         "color":"#FFEDA5",
         "titleColor":"#132072",
         "arrowColor":""
     },
     {
-        "title":"Our Services",
+        "title":"Lecture Series",
         "image":"ourServicesIcon.svg",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. Pellentesque bibendum lorem ac mauris porta sodales. Quisque eu tortor ullamcorper, posuere velit nec, tincidunt nisl. Etiam ultrices placerat mi nec aliquet. Curabitur consequat sem at molestie efficitur.",
+        "description":"<ul><li>1. Fundamentals of Theravada Buddhism<li\/><li>2. ථේරවාද බුදුදහමේ සිද්ධාන්ත<li\/><li>3. සූත්‍ර සම්භාෂණය<li\/><li>4. අභිධර්ම සම්භාෂණ<li\/><ul \/><\/div>",
         "link":"",
         "color":"#025BC1",
         "titleColor":"#FFFFFF",
@@ -29,8 +29,8 @@
     {
         "title":"Get Registered",
         "image":"getRegisteredIcon.svg",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. Pellentesque bibendum lorem ac mauris porta sodales. Quisque eu tortor ullamcorper, posuere velit nec, tincidunt nisl. Etiam ultrices placerat mi nec aliquet. Curabitur consequat sem at molestie efficitur.",
-        "link":"",
+        "description":"The details will be available soon",
+        "link":"#",
         "color":"#1E1EA2",
         "titleColor":"#FFFFFF",
         "arrowColor":""
