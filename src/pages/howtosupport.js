@@ -49,7 +49,7 @@ export default function HowToSupport() {
 
       <MainLayoutSection
         title="How To Support"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris."
         photo="/Howtosupportimg.png"
         backgroundImg="url(/Ellipse-2.svg)"
       />
@@ -59,36 +59,31 @@ export default function HowToSupport() {
       <Container>
         <div className="how-to-support-content">
           <div className="how-to-support-main-body">
-            <div className="how-to-support-how-to-donate-header">
+            {/*<div className="how-to-support-how-to-donate-header">
               Main Aspects
-            </div>
+            </div> */}
             <div className="how-to-support-aspect-container">
               <div className="how-to-support-main-body-col">
                 <div className="how-to-support-main-aspects">Construction</div>
                 <div className="how-to-support-main-aspects-text">
-                  Currently constructions are underway in a 100-acre land
-                  donated by a devotee for a lecture hall and ten chambers
-                  (Kuti) in order to commence the five-year teacher training
-                  program. Constructions for the main complex will provide
-                  lodging facilities for 300 monks, lecture theatres and a
-                  library is expected to begin in the near future.
+                Currently constructions are underway in a 100-acre land for forty (40) residential chambers (kuṭis), two Lecture Halls, one Permanent AV Studio, a Study Council, one Sewing Room and one Robe Washing Shed in order to commence the five-year teacher training program. 
+Constructions for the main complex that will provide lodging facilities for about 300 monks, Lecture Theatres and a Library is expected to begin in the near future.
+
                 </div>
               </div>
 
               <div className="how-to-support-main-body-col">
                 <div className="how-to-support-main-aspects">Healthcare</div>
                 <div className="how-to-support-main-aspects-text">
-                  Contributions can be made for the medical expenses and other
-                  healthcare related needs of the monks residing in the
-                  Institute.
+                  Contributions can be made for the medical purposes and other healthcare related needs of the monks residing in the Institute.
                 </div>
                 <br></br>
                 <br></br>
                 <div className="how-to-support-main-aspects">
-                  Help to propagate dhamma
+                  Propagating Dhamma
                 </div>
                 <div className="how-to-support-main-aspects-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie blandit placerat. Nunc et feugiat ante, in consectetur mauris. 
+                  One can contribute to spread the noble Theravada Dhamma all around the globe for the benefit of humankind. 
                 </div>
               </div>
             </div>
@@ -97,11 +92,11 @@ export default function HowToSupport() {
               <div className="how-to-support-quote-container">
                 <blockquote className="blockquote mb-0 ">
                   <p className="how-to-support-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Integer posuere erat a ante.{' '}
+                  While lay devotees support monks with relevant requisites, monks enrich them with the noble Dhamma. Thus, the disciples of the Tathāgata get freed from suffering.
                   </p>
                   <footer className="how-to-support-source-name">
-                    Someone famous in source title
+                  Sāgārā anagārā ca - ubo aññoññanissitā
+                  Ārādhayanti saddhammaṃ - yogakkhemaṃ anuttaraṃ
                   </footer>
                 </blockquote>
               </div>
@@ -110,11 +105,10 @@ export default function HowToSupport() {
           <div className="how-to-support-main-body-bank-info">
             <div className="how-to-support-main-body-bank-info-section1">
               <div className="how-to-support-main-body-bank-info-section1-title">
-                How to Donate
+                How to Contribute
               </div>
               <div className="how-to-support-main-body-bank-info-section1-body">
-                Devotees who wish to join this meritorious act can donate using
-                the below Account details.
+              Devotees who are willing to join the meritorious act of supporting the IIT can do so with the below information.
               </div>
             </div>
 

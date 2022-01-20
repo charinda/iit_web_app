@@ -53,7 +53,7 @@ const CardDeckComponent = () => {
     <Container className={`card-container ${styles.deckContainer}`}>
       <div className={styles.deckHeader}>
         <p className={styles.deckHeaderIntro}>
-        The International Institute of Theravada (IIT) is a comprehensive training institute aimed at facilitating spiritual and academic development of Buddhist monks, based on Theravada teachings. It is inclusive and accommodative, irrespective of sects (Nikaya) and other differences within the Theravada Buddhist clergy. The IIT would disseminate the teachings of the Buddha as per the ancient Theravada texts, to Buddhist practitioners across the globe.
+        International Institute of Theravada is a monk training institute dedicated to capacitate monks who are capable in attaining their own liberation (atthahita bhikkhu), guiding others towards liberation (parahita bhikkhu) and sustaining the sāsana by accurately following the code of discipline (vinayadhara bhikkhu).
         </p>   
       </div>
       <Row xs={1} sm={2} md={2} lg={4}>
